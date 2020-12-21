@@ -18,7 +18,10 @@
   display: none;
 }
 
-#wall div.parent div + div
+#wall div.parent div + div:last-child #tag-6 {
+  display: none;
+}
+
 
 #wall .parent > div > #tag-7.slick {
   display: none;
