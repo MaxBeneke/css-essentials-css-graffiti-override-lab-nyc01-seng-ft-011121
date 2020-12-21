@@ -18,6 +18,9 @@
   display: none;
 }
 
-#wall div:last-child{
+{
   display: none;
 }
+
+#wall .parent > div > #tag-7.slick
+
